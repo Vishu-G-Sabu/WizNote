@@ -1,2 +1,3 @@
 # WizNote
 Ethernet Sticky Note
+This project can be used to create a display system that can receive commands over an Ethernet connection and display either text or predefined images on an LED matrix. You can use this project to create a network-connected message display board. Users can send messages to the Arduino over Ethernet, which will be displayed on the LED matrix. This project can be used to communicate important information or announcements in a public place, such as an office lobby or a community center. You can create interactive signage by allowing users to send commands to Arduino. For example, users could send "SMILE" to display a smiley face on the LED matrix.
